@@ -1,0 +1,64 @@
+_repo: The-foundations-of-Einstein-s-theory-of-gravitation_70793
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
+  - agent_name: Turner, H. H. (Herbert Hall)
+    alias: Turner, Herbert Hall
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '36340'
+    url: http://www.gutenberg.org/2009/agents/36340
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Hall_Turner
+  translator:
+    agent_name: Brose, Henry L. (Henry Leopold)
+    aliases:
+    - Brose, Henry Herman Leopold Adolf
+    - Brose, Henry Leopold
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '41983'
+    url: http://www.gutenberg.org/2009/agents/41983
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Brose
+creator:
+  author:
+    agent_name: Freundlich, Erwin
+    aliases:
+    - Freundlich, Erwin Finlay
+    - Freundlich, E. (Erwin)
+    - Finlay-Freundlich, Erwin
+    - Finlay-Freundlich, E. (Erwin)
+    birthdate: 1885
+    deathdate: 1964
+    gutenberg_agent_id: '55928'
+    url: http://www.gutenberg.org/2009/agents/55928
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Erwin_Finlay-Freundlich
+    - https://de.wikipedia.org/wiki/Erwin_Freundlich
+description: ''
+gutenberg_issued: '2023-05-18'
+identifiers:
+  gutenberg: '70793'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001987666
+pgterms:marc905: 20230425101605freundlich
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited States :$bE.P. Dutton and Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relativity (Physics)'
+- !lcsh 'Gravitation'
+- !lcc 'QC'
+- GITenberg
+title: The foundations of Einstein's theory of gravitation
+url: http://www.gutenberg.org/ebooks/70793
